@@ -1,6 +1,7 @@
-# Mutli-class-Student-Grade-prediction
+# Multi-class-Student-Grade-prediction
 
 Created a multi-class machine learning model for predicting student grades using previous semester grades and marks.
+
 challenges faced during the project:
 1.as marks are categorized into grades example O, A, B, C, F.This grades gave imbalance nature in dataset,it made a difficulty to predict the grade.
 2.And lack of accuracy given by machine learning models.
